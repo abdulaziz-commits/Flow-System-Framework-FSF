@@ -1,4 +1,37 @@
 # Flow System Framework
+# Flow System Framework (FSF) — Standard v1.0
+
+A node-based capacity-demand model for analyzing system stability, bottlenecks, and flow dynamics.
+
+## DOI
+https://doi.org/10.5281/zenodo.19177169
+
+## Overview
+
+The Flow System Framework defines system behavior through the relationship between capacity (K) and demand (D), evaluated at a node using:
+
+SF = K / D
+
+## Core Principle
+
+Assets generate capacity, flows generate demand, and the node determines the balance.
+
+## Figure
+
+![FSF](./FIGURE/figure1.png)
+
+## Usage
+
+1. Identify the node
+2. Measure capacity (K)
+3. Identify demand (D)
+4. Compute SF
+5. Determine system state
+
+## Citation
+
+Al Wahaibi, A. (2026). Flow System Framework. Zenodo.
+https://doi.org/10.5281/zenodo.19177169
 
 The Flow System Framework is a conceptual and analytical model for understanding system behavior through the interaction between assets and flows within geographical constraints.
 
