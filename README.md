@@ -1,15 +1,5 @@
 # Flow System Framework
 
-CFS applied to high-pressure geopolitical systems:
-
-- Strategic Flow Convergence Case Study
-# Flow System Framework (FSF) — Standard v1.0
-
-A node-based capacity-demand model for analyzing system stability, bottlenecks, and flow dynamics.
-
-## DOI
-https://doi.org/10.5281/zenodo.19177169
-
 ## Overview
 
 The Flow System Framework defines system behavior through the relationship between capacity (K) and demand (D), evaluated at a node using:
