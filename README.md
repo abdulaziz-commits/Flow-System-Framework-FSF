@@ -1,15 +1,5 @@
 # Flow System Framework
 
-# CFS (Cognitive Flow System)
-
-![CFS Flow](./cfs-flow.png)
-
-CFS is a causal framework for understanding how decisions emerge through structured constraints rather than direct control.
-
-Reference:
-https://doi.org/10.5281/zenodo.19142077
-## Case Study
-
 CFS applied to high-pressure geopolitical systems:
 
 - Strategic Flow Convergence Case Study
